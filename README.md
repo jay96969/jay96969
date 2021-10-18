@@ -1,4 +1,7 @@
 ## Hey, I am Jay! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+
+```
+ _____________________________________
 < Welcome to my personal github page! >
  ------------------------------------- 
         \   ^__^
@@ -7,6 +10,8 @@
                 ||----w |
                 ||     ||
 ```
+
+
 - 👀 I an aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
 - 🌱 I’m currently working on a B.Tech project
 
@@ -44,6 +49,9 @@ Find out more about me & feel free to connect with me here:
 <img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="400" height="200">
 </p>  
 
+
+```
+
 CATching bugs in code...
                               
        \`*-.    [me]              
@@ -61,6 +69,7 @@ CATching bugs in code...
 [bug] .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
 
+```
 
 <!---
 jay96969/jay96969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
