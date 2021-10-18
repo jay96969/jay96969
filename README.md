@@ -4,7 +4,7 @@
 - 👀 I an aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
 - 🌱 I’m currently working on a B.Tech project
 
-<p align="center">
+<p >
 	<a href="https://www.linkedin.com/in/jay-kishan-487853196/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
