@@ -12,7 +12,7 @@
 ```
 
 
-- 👀 I an aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
+- 👀 I am aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
 - 🌱 I’m currently working on a B.Tech project
 
 Find out more about me & feel free to connect with me here:
@@ -26,9 +26,7 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://www.instagram.com/jay.___.007/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
-  <a href="https://jay96969.github.io/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
+ 
   <a href="mailto:jk223391@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
