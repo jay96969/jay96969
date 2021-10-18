@@ -1,6 +1,6 @@
 - 👋 I am Jay  🙋
 - 👀 I an aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
-- 🌱 I’m currently studying Machine learning 
+- 🌱 I’m currently working on a B.Tech project
 
 <!---
 jay96969/jay96969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
