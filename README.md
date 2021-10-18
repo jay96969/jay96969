@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a B.Tech project
 
 
-![Alt Text](https://raw.githubusercontent.com/Yashpandey4/Yashpandey4/master/dino.gif)
+![Alt Text](https://media.giphy.com/media/l3vR0ALUsWEqa6Cly/giphy.gif)
 
 
 <!---
