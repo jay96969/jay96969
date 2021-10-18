@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on a B.Tech project
 
 
-![Alt Text](https://media.giphy.com/media/l3vR0ALUsWEqa6Cly/giphy.gif)
-![test image size]<img src="https://media.giphy.com/media/l3vR0ALUsWEqa6Cly/giphy.gif" width="400" height="200">
+
+![Alt_Text]<img src="https://media.giphy.com/media/l3vR0ALUsWEqa6Cly/giphy.gif" width="400" height="200">
 
 
 <!---
