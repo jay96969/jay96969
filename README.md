@@ -1,7 +1,12 @@
-## Hey, I am JAY! Great to see you here! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
-<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
-
-
+## Hey, I am Jay! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 - 👀 I an aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
 - 🌱 I’m currently working on a B.Tech project
 
@@ -38,6 +43,23 @@ Find out more about me & feel free to connect with me here:
 <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="400" height="200">
 <img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="400" height="200">
 </p>  
+
+CATching bugs in code...
+                              
+       \`*-.    [me]              
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
 
 
 <!---
