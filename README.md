@@ -1,3 +1,5 @@
+Hello there! 👋🏻
+
 - 👋 I am Jay  🙋
 - 👀 I an aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
 - 🌱 I’m currently working on a B.Tech project
