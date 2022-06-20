@@ -1,5 +1,4 @@
-## Hey, I am Jay! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
-
+# Hello there! 👋🏻
 ```
  _____________________________________
 < Welcome to my personal github page! >
