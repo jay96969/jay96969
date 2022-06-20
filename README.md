@@ -13,8 +13,8 @@
 ```
 
 
-- 👀 I am aspiring coder , music lover and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
-- 🌱 I’m currently working on a B.Tech project
+- 👀 I am aspiring coder , ML enthusiast and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
+- 
 
 Find out more about me & feel free to connect with me here:
 
