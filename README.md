@@ -43,10 +43,7 @@ Find out more about me & feel free to connect with me here:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-<p float="left">
-<img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="400" height="200">
-<img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="400" height="200">
-</p>  
+
 
 
 ```
