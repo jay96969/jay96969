@@ -37,7 +37,7 @@ Find out more about me & feel free to connect with me here:
 ## ⚡ Tech Stack
 
 ### 🚀 Languages :
-![Spring Boot](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg)
+![Spring Boot](https://spring.io/)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kafka]
