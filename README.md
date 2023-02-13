@@ -12,7 +12,7 @@
 ```
 
 
-- 👀 I am aspiring coder , ML enthusiast and full time movie Geek, currently pursuing my Bachelor's from IIT Delhi..
+- 👀 I am a software developer, competitive programmer , ML enthusiast and full time movie Geek.
 - 
 
 Find out more about me & feel free to connect with me here:
@@ -37,10 +37,10 @@ Find out more about me & feel free to connect with me here:
 ## ⚡ Tech Stack
 
 ### 🚀 Languages :
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kafka]
 
 
 
